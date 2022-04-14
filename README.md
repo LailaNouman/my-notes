@@ -1,6 +1,6 @@
 # my-notes
 
-### I am Laila Nouman I recently graudated from university of Jordan with a Bachelor's degree in  * Computer Information Systems *, I have a lot of hobbies like: cooking, singing, swimming, horse riding. I love to go on adventures and discover new things, hanging out with my friends and go on a rides, to watch movies and learn new things. I studied programming because i love mathmatical stuff and to solve problems. 
+### I am Laila Nouman I recently graudated from university of Jordan with a Bachelor's degree in  *Computer Information Systems*, I have a lot of hobbies like: cooking, singing, swimming, horse riding. I love to go on adventures and discover new things, hanging out with my friends and go on a rides, to watch movies and learn new things. I studied programming because i love mathmatical stuff and to solve problems. 
 
 
 # Fundamentals of a good developers:
